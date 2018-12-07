@@ -1,7 +1,7 @@
 # Scalable Vector Graphics (SVG)
 ___
 
-### In this tutorial we will be covering how to use SVG to create your own unique design digitally.
+### In this tutorial we will be covering how to use SVG to create unique designs digitally.
 
 What is Scalable Vector Graphics?
 **SVG** 
@@ -15,5 +15,9 @@ have a number of other tech related tutorials that may catch your interest.
 For this tutorial the goal is to try and create the image below:
 
 ![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/SVG.PNG)
+
+But before we begin it might be beneficial to go through [w3school's SVG Polyline]
+examples to familiarize yourself with using Polyline and to get a feel for it.
   
 [www.w3schools.com]: https://www.w3schools.com/
+[w3school's SVG Polyline]: https://www.w3schools.com/graphics/svg_polyline.asp

@@ -20,14 +20,12 @@ have a number of other tech related tutorials that may catch your interest.
 For this tutorial the goal is to try and create the image below:
 
 ![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/SVG.PNG)
----
 
 But before we begin it might be beneficial to go through [w3schools SVG tutorial] to 
 understand how 
 **SVG** 
 works and get a feel for it but the one example that will help 
 the most with this project is the [Polyline] example.
----
 
 Once you feel comfortable click the link below and delete the current polyline points
 and add Mizzou's colors to style.(see below)

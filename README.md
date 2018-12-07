@@ -21,13 +21,15 @@ For this tutorial the goal is to try and create the image below:
 
 ![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/SVG.PNG)
 
-But before we begin it might be beneficial to go through [w3school's SVG Polyline]
-examples to familiarize yourself with using Polyline and to get a feel for it.
+But before we begin it might be beneficial to go through [w3schools SVG tutorial] to 
+understand how **SVG** works and get a feel for it but the one example that will help 
+the most with this project is the [Polyline] example.
 
 Once you feel comfortable click the link below and delete the code on the left
 of the screen between <svg> and </svg> to try and recreate the Mizzou M!
 [Get Started!]
   
+[w3schools SVG tutorial]: https://www.w3schools.com/graphics/svg_intro.asp  
 [www.w3schools.com]: https://www.w3schools.com/
-[w3school's SVG Polyline]: https://www.w3schools.com/graphics/svg_polyline.asp
+[Polyline]: https://www.w3schools.com/graphics/svg_polyline.asp
 [Get Started]: https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_polyline2

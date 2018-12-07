@@ -32,7 +32,7 @@ the most with this project is the [Polyline] example.
 Once you feel comfortable click the link below and delete the current polyline points
 and add Mizzou's colors to style.(see below)
 
-![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/SVG.PNG)
+![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/polyline.PNG)
 
 Are you ready to create the Mizzou M?!?!
 [Get Started!]

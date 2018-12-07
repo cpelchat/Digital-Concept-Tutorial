@@ -26,7 +26,11 @@ understand how **SVG** works and get a feel for it but the one example that will
 the most with this project is the [Polyline] example.
 
 Once you feel comfortable click the link below and delete the current polyline points
-and add Mizzou's colors to style to try and recreate the Mizzou M!
+and add Mizzou's colors to style.(see below)
+
+![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/polyline.PNG)
+
+Are you ready to create the Mizzou M?!?!
 [Get Started!]
   
 [w3schools SVG tutorial]: https://www.w3schools.com/graphics/svg_intro.asp  

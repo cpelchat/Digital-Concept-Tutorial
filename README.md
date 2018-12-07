@@ -28,14 +28,15 @@ works and get a feel for it but the one example that will help
 the most with this project is the [Polyline] example.
 
 Once you feel comfortable click the link below and delete the current polyline points
-and add Mizzou's colors to style.(see below)
+and then add Mizzou's colors to style. (see example below)
 
 ![alt text](https://github.com/cpelchat/Digital-Concept-Tutorial/blob/master/polyline.PNG)
 
 Are you ready to create the Mizzou M?!?!
-[Get Started!]
+
+# [Click to get Started!]
   
 [w3schools SVG tutorial]: https://www.w3schools.com/graphics/svg_intro.asp  
 [www.w3schools.com]: https://www.w3schools.com/
 [Polyline]: https://www.w3schools.com/graphics/svg_polyline.asp
-[Get Started!]: https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_polyline2
+[Click to get Started!]: https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_polyline2
